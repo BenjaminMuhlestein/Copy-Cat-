@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+button{
+    
+    height: 2.75em;
+    width: 7em;
+    margin-left: 1225px;
+    margin-bottom: 600px;
+    background-color: lightskyblue;
+    border-radius: .5em;
+   
+
+    
+}
+
+img{
+    padding-top: 50px;
+    padding-left: 500px;
+
+}
+
+
